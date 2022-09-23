@@ -1,0 +1,6 @@
+﻿  ForTestsC++.cpp
+D:\Projects\ForTestsC++\ForTestsC++\ForTestsC++.cpp(45,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\ForTestsC++\ForTestsC++\ForTestsC++.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+  NewClass.cpp
+  Создание кода...
+  ForTestsC++.vcxproj -> D:\Projects\ForTestsC++\Debug\ForTestsC++.exe
