@@ -1,0 +1,16 @@
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.exe
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.deps.json
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.runtimeconfig.json
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.runtimeconfig.dev.json
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.dll
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ref\ForTestsSharp.dll
+D:\Projects\ForTestsSharp\ForTestsSharp\bin\Debug\net5.0\ForTestsSharp.pdb
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.csproj.AssemblyReference.cache
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.AssemblyInfoInputs.cache
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.AssemblyInfo.cs
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.csproj.CoreCompileInputs.cache
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.dll
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ref\ForTestsSharp.dll
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.pdb
+D:\Projects\ForTestsSharp\ForTestsSharp\obj\Debug\net5.0\ForTestsSharp.genruntimeconfig.cache
